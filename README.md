@@ -1,7 +1,7 @@
 # CoinFlip
 Just flip a coin. Easy as that.
 
-Try it: https://dinoosauro.github.io/CoinFlip/
+
 
 ## Usage
 ![A screenshot of the website](https://github.com/Dinoosauro/CoinFlip/assets/80783030/3c5b8d95-ace8-44d5-8964-8ae1d5a84901)
