@@ -1,0 +1,16 @@
+{
+    "name": "CoinFlip",
+    "short_name": "CoinFlip",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#161616",
+    "theme_color": "#FAA300",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "./icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
